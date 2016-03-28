@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" layout="TableLayout" tableLayoutRows="3" tableLayoutColumns="1" title="Connexion" >
+  <component type="TextField" name="Login" cloudBoundProperty="text" cloudDestinationProperty="Login" text="Login" >
+  </component>
+  <component type="TextField" name="mdp" cloudBoundProperty="text" cloudDestinationProperty="mdp" verticalAlignment="4" text="mdp" >
+  </component>
+  <component type="Button" name="connecter" cloudDestinationProperty="connecter" text="OK" gap="2" verticalAlignment="4" textPosition="3" >
+  </component>
+</component>

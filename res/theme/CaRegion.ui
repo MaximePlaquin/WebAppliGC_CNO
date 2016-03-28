@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="CaRegion" cloudDestinationProperty="CaRegion" layout="TableLayout" tableLayoutRows="2" tableLayoutColumns="1" >
+  <component type="ComboBox" name="ComboRegion" cloudDestinationProperty="ComboBox" >
+  </component>
+  <component type="Table" name="TableRegion" cloudDestinationProperty="TableRegion" >
+  </component>
+</component>
